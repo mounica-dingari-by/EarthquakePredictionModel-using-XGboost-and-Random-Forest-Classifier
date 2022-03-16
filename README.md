@@ -1,0 +1,1 @@
+# EarthquakePredictionModel-using-XGboost-and-Random-Forest-Classifier
